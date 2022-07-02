@@ -28,7 +28,7 @@ defaults:
 paginate: 20
 
 #### Site
-title : Jekyll Jacman
+title : eagle_ice
 tagline: A fresh looking and responsive theme for Jekyll
 assets: /assets
 url:
@@ -84,9 +84,11 @@ share_to: true #enable share-to buttons if true
 
 #### Author information
 author:
-  name: yitao      ## e.g. wuchong Author name
-  intro_line1:  "Hello ,I'm Larry Page in Google."    ## your introduction on the bottom of the page
-  intro_line2:  "This is my blog,believe it or not."  ## the 2nd line
+  name: eagle_ice      ## e.g. wuchong Author name
+  # line1 书山有路勤为径
+  intro_line1:  "Diligence is the path to the mountain of knowledge."    ## your introduction on the bottom of the page
+  # line2 学海无涯苦作舟
+  intro_line2:  "hard-working is the boat to the endless sea of learning."  ## the 2nd line
   weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.

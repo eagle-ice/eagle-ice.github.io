@@ -85,23 +85,23 @@ share_to: true #enable share-to buttons if true
 
 #### Author information
 author:
-  name: eagle_ice      ## e.g. wuchong Author name
+  name: eagle_ice      ## e.g. eagle_ice Author name
   # line1 书山有路勤为径
   intro_line1:  "Diligence is the path to the mountain of knowledge."    ## your introduction on the bottom of the page
   # line2 学海无涯苦作舟
   intro_line2:  "hard-working is the boat to the endless sea of learning."  ## the 2nd line
-  weibo:      ## e.g. wuchong1014 or 2176287895 for http://weibo.com/2176287895
+  weibo:      ## e.g. eagle_ice1014 or 2176287895 for http://weibo.com/2176287895
   weibo_verifier:  ## e.g. b3593ceb Your weibo-show widget verifier ,if you use weibo-show it is needed.
   tsina:      ## e.g. 2176287895  Your weibo ID,It will be used in share button.
-  douban:     ## e.g. wuchong1014 or your id for https://www.douban.com/people/wuchong1014
-  zhihu:      ## e.g. jark  for http://www.zhihu.com/people/jark
-  email:      ## e.g. imjark@gmail.com
-  twitter:    ## e.g. jarkwu for https://twitter.com/jarkwu
-  github:  https://github.com/eagle-ice   ## e.g. wuchong for https://github.com/wuchong
-  facebook:   ## e.g. imjark for https://facebook.com/imjark
-  linkedin:   ## e.g. wuchong1014 for https://www.linkedin.com/in/wuchong1014
+  douban:     ## e.g. eagle_ice1014 or your id for https://www.douban.com/people/eagle_ice1014
+  zhihu:      ## e.g. eagle_ice  for http://www.zhihu.com/people/eagle_ice
+  email:      eagle-ice@163.com
+  twitter:    ## e.g. eagle_icewu for https://twitter.com/eagle_icewu
+  github:     ## e.g. eagle_ice for https://github.com/eagle_ice
+  facebook:   ## e.g. imeagle_ice for https://facebook.com/imeagle_ice
+  linkedin:   ## e.g. eagle_ice1014 for https://www.linkedin.com/in/eagle_ice1014
   google_plus:    ## e.g. "111190881341800841449" for https://plus.google.com/u/0/111190881341800841449, the "" is needed!
-  stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/jark
+  stackoverflow:  ## e.g. 3222790 for http://stackoverflow.com/users/3222790/eagle_ice
 ## if you set them, the corresponding  share button will show on the footer
 
 #### Toc
@@ -114,11 +114,12 @@ toc:
 #### Links
 links:
   码农圈: https://coderq.com
-  Jark's Blog: http://wuchong.me
+  eagle_blog: https://eagle-ice.github.io
+  github: https://github.com/eagle-ice
 
 #### Comment
-duoshuo_shortname:    ## e.g. wuchong      your duoshuo short name.       website: http://duoshuo.com
-disqus_shortname:     ## e.g. wuchong      your disqus short name.        website: http://disqus.com
+duoshuo_shortname:    ## e.g. eagle_ice      your duoshuo short name.       website: http://duoshuo.com
+disqus_shortname:     ## e.g. eagle_ice      your disqus short name.        website: http://disqus.com
 hypercomments_id:     ## e.g. 91510        your hypercomments widget id.  website: http://hypercomments.com
 yungentie_productkey: ## your netease yungentie product key.              website: https://gentie.163.com
 ## set only one of them
@@ -134,7 +135,7 @@ jiathis:
 google_analytics:
   enable: false
   id:        ## e.g. UA-46321946-2 your google analytics ID.
-  site:      ## e.g. wuchong.me your google analytics site or set the value as auto.
+  site:      ## e.g. eagle_ice.me your google analytics site or set the value as auto.
 ## You MUST upgrade to Universal Analytics first!
 ## https://developers.google.com/analytics/devguides/collection/upgrade/?hl=zh_CN
 baidu_tongji:
@@ -149,9 +150,9 @@ fancybox: true        ## if you use gallery post or want use fancybox please set
 totop: true           ## if you want to scroll to top in every post set the value to true
 
 #### Custom Search
-google_cse:
-  enable: false
-  cx: 018294693190868310296:abnhpuysycw  ## e.g. 018294693190868310296:abnhpuysycw your Custom Search ID.
+#google_cse:
+#  enable: false
+#  cx: 018294693190868310296:abnhpuysycw  ## e.g. 018294693190868310296:abnhpuysycw your Custom Search ID.
 ## https://www.google.com/cse/
 ## To enable the custom search You must create a "search" folder in '/source' and a "index.md" file
 ## set the 'front-matter' as

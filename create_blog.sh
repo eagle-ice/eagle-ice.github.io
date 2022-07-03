@@ -45,6 +45,7 @@ function create_blog_head()
     echo "categories = $2"
     echo "tags = $3"
     echo "file_name = $4"
+    sed -i "s/title:.*/title: $1/g" $4
     sed -i "s/date:.*/date: $(date +"%Y-%m-%d %H:%M:%S")/g" $4
     sed -i "s/categories:.*/categories: $2/g" $4
     sed -i "s/tags:.*/tags: $3/g" $4

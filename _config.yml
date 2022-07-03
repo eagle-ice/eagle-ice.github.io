@@ -29,7 +29,8 @@ paginate: 20
 
 #### Site
 title : eagle_ice
-tagline: A fresh looking and responsive theme for Jekyll
+# 我想我会保持微笑，继续走完我未完的路
+tagline: After that, I will keep walking.
 assets: /assets
 url:
 baseurl:

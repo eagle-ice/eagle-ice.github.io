@@ -1,0 +1,19 @@
+{
+    "categories_list": {
+        "software": [
+            "Linux",
+            "Android",
+            "windows"
+        ],
+        "hardware": [
+            "原理图",
+            "PCB"
+        ]
+    },
+    "tags_list": {
+        "tools": [
+            "VMPlayer",
+            "memcheck"
+        ]
+    }
+}
